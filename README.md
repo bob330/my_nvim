@@ -9,7 +9,8 @@ This is a small nvim repo for me to:
 git clone into my_nvim then invoked by 
 
 ```
-README.mdNVIM_APPNAME=my_nvim
+README.md
+NVIM_APPNAME=my_nvim
 ```
 
 Current tree. installed packer and 1st plugin: lualine
